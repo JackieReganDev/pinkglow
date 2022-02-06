@@ -62,8 +62,10 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459341675644 {
-background-image: url(../images/nikki38.jfif)!important;
+background-image: url(../images/nikki38.jpg)!important;
 height: auto!important;
+background-repeat: no-repeat;
+background-size: cover;
 	
 }
 .sc_custom_1459346050873 {
@@ -604,7 +606,7 @@ height: auto!important;
 }
 .home .sc_promo_image.even {
 	background-size: cover!important;
-	height: 100%!important;
+	height: 115%!important;
 	background-image:url(../images/skinscript2.jpeg);
 	width: 50%;
 	left: 0;
