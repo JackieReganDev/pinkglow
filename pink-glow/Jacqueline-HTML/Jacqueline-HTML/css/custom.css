@@ -62,13 +62,15 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459341675644 {
-	background-image: url(../images/1170x700.jpg)!important;
+background-image: url(../images/nikki38.jfif)!important;
+height: auto!important;
+	
 }
 .sc_custom_1459346050873 {
 	background-color: #f8f8f8!important;
 }
 .sc_custom_1459347818729 {
-	background-image: url(../images/1170x700.jpg)!important;
+	/* background-image: url(../images/1170x700.jpg)!important; */
 }
 .sc_custom_1459352457001 {
 	margin-top: 28px!important;
@@ -79,7 +81,7 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 
 
 .sc_custom_1459501367721 {
-	background-image: url(../images/1170x700.jpg) !important;
+	/* background-image: url(../images/1170x700.jpg) !important; */
 }
 .sc_custom_1459502371704 {
 	background-color: #8ed4cc !important;
@@ -88,7 +90,7 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	background-color: #f8f8f8 !important;
 }
 .sc_custom_1459609995583 {
-	background-image: url(../images/Layer-25-copy1.png) !important;
+	/* background-image: url(../images/Layer-25-copy1.png) !important; */
 }
 .sc_custom_1460641232039 {
 	margin-bottom: 25px !important;
@@ -123,7 +125,7 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
     margin-bottom: 13px!important;
 }
 .sc_custom_1459848155774 {
-	background-image: url(../images/1170x700.jpg)!important;
+	/* background-image: url(../images/1170x700.jpg)!important; */
 }
 
 
@@ -138,7 +140,7 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 	background-color:#f8f8f8!important;
 }
 .sc_custom_1459501367721 {
-	background-image:url(../images/1170x700.jpg)!important;
+	/* background-image:url(../images/1170x700.jpg)!important; */
 }
 
 .sc_custom_1460037247892 {
@@ -146,7 +148,7 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 }
 
 .sc_custom_1459347818729 {
-	background-image: url(../images/1170x700.jpg)!important;
+	/* background-image: url(../images/1170x700.jpg)!important; */
 }
 
 .sc_custom_1459502371704 {
@@ -594,13 +596,17 @@ body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button {
 
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
-	background-image:url(../images/1170x700.jpg);
-	width:50%;
+	background-image:url(../images/skinscript7.jpg);
+	width: 46%;
+	height: 100%;
+	background-size: cover;
 	left: 0;
 }
 .home .sc_promo_image.even {
-	background-image:url(../images/370x250.jpg);
-	width:65%;
+	background-size: cover!important;
+	height: 100%!important;
+	background-image:url(../images/skinscript2.jpeg);
+	width: 50%;
 	left: 0;
 }
 .home .custom_services_pricing {
