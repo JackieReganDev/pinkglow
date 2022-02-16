@@ -1543,9 +1543,9 @@ body.rtl .tp-kbimg {
     overflow: scroll;
 }
 #mainLogo{
-    padding-top: 25px;
-    object-fit: contain;
-    height: 200px;
+    padding-top: 25px!important;
+    object-fit: contain!important;
+    height: 300px;
     width: 100%;
 }
 
@@ -1569,7 +1569,7 @@ body.rtl .tp-kbimg {
     font-size: 68px;
     line-height: 90px;
     font-weight: 400;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Mr De Haviland;
     text-align: center;
 }
@@ -1583,7 +1583,7 @@ body.rtl .tp-kbimg {
     font-size: 68px;
     line-height: 68px;
     font-weight: 300;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Raleway;
     text-align: center;
     text-transform: uppercase;
@@ -1598,7 +1598,7 @@ body.rtl .tp-kbimg {
     font-size: 17px;
     line-height: 30px;
     font-weight: 400;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Droid Serif;
     text-align: center;
 }
@@ -1613,7 +1613,7 @@ body.rtl .tp-kbimg {
     font-size: 12px!important;
     line-height: 60px;
     font-weight: 700;
-    color: #3D550C;
+    color: #fff;
     font-family: Raleway;
     text-transform: uppercase;
     background-color: rgba(249, 163, 146, 1.00);
@@ -1630,7 +1630,7 @@ body.rtl .tp-kbimg {
     font-size: 68px;
     line-height: 68px;
     font-weight: 300;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Raleway;
     text-transform: uppercase;
 }
@@ -1640,7 +1640,7 @@ body.rtl .tp-kbimg {
     font-size: 17px;
     line-height: 30px;
     font-weight: 400;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Droid Serif;
 }
 #slide-6-layer-1 {
@@ -1667,7 +1667,7 @@ body.rtl .tp-kbimg {
     font-size: 48px;
     line-height: 90px;
     font-weight: 400;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Mr De Haviland;
     text-align: center;
 }
@@ -1681,7 +1681,7 @@ body.rtl .tp-kbimg {
     font-size: 60px;
     line-height: 90px;
     font-weight: 400;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Mr De Haviland;
     text-align: center;
 }
@@ -1691,7 +1691,7 @@ body.rtl .tp-kbimg {
     font-size: 38px;
     line-height: 38px;
     font-weight: 300;
-    color: #3D550C;
+    color: #A1664E;
     font-family: Raleway;
     text-align: center;
     text-transform: uppercase;

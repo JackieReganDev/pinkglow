@@ -1563,8 +1563,14 @@ label.required:after {
 .page_content_wrap {
     padding: 6.8em 0;
 }
+#bgimg{
+   
+}
 .page_content_wrap.page_paddings_no,
 .body_style_fullscreen .page_content_wrap {
+    background-image: url(../images/nikki45.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     padding: 0;
 }
 .body_style_boxed .page_content_wrap.page_paddings_no {
@@ -2204,7 +2210,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(2, 75, 94, 0.8);
+    background-image: url(../images/nikki45.jpg);
 }
 .top_panel_image_header {
     position: absolute;
@@ -2314,6 +2320,7 @@ li.opened>a>.open_child_menu:before {
 }
 .top_panel_style_6 .top_panel_middle,
 .top_panel_style_7 .top_panel_middle {
+    background-color: #F5E8F4;
     min-height: 0;
 }
 form.search_form {
