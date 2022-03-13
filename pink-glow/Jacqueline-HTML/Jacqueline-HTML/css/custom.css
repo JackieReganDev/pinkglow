@@ -599,9 +599,11 @@ background-size: cover;
 .services2 .sc_promo_image,
 .home .sc_promo_image.odd {
 	background-image:url(../images/skinscript7.jpg);
-	width: 46%;
-	height: 100%;
+	width: 50%;
+	height: 108%;
+	object-fit: contain;
 	background-size: cover;
+	
 	left: 0;
 }
 .home .sc_promo_image.even {
