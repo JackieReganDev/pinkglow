@@ -1709,7 +1709,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_style_8 .top_panel_middle {
     background-repeat: repeat;
     background-position: center top;
-    background-color: #F3EAF3;
+    background-color: #88D7C3;  
     object-fit: contain;
 }
 .top_panel_top_contact_area {
@@ -1720,6 +1720,9 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     float: left;
     margin-top: 1em;
     margin-left: 3em;
+}
+#bambi{
+    margin-right: 1em;
 }
 .top_panel_top div+.top_panel_top_contact_area:before {
     content: '|';
@@ -2018,6 +2021,16 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
     line-height: 1em;
     font-size: 1.25em;
 }
+.robbie{
+    font-size: 20px ;
+}
+.dooka{
+    
+}
+.liming{
+    background: black;
+    color: #88D7C3;
+}
 .top_panel_top_user_area .menu_user_cart {
     float: right;
     position: inherit;
@@ -2033,6 +2046,13 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 }
 .top_panel_middle .contact_cart {
     position: relative;
+}
+.bella{
+    color: #F9A392 !important;
+    margin-top: 15px;
+}
+.bella a{
+    color: #F9A392 !important;
 }
 .top_panel_middle .sidebar_cart {
     position: absolute;
