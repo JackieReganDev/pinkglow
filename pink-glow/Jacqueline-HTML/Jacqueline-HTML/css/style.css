@@ -1709,7 +1709,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_style_8 .top_panel_middle {
     background-repeat: repeat;
     background-position: center top;
-    background-color: #88D7C3;  
+    background-color: #F7B4C6;  
     object-fit: contain;
 }
 .top_panel_top_contact_area {
@@ -2027,9 +2027,9 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .dooka{
     
 }
-.liming{
-    background: black;
-    color: #88D7C3;
+#jackie{
+    background: #F7B4C6 !important;
+    color: black;
 }
 .top_panel_top_user_area .menu_user_cart {
     float: right;
@@ -2343,7 +2343,7 @@ li.opened>a>.open_child_menu:before {
 }
 .top_panel_style_6 .top_panel_middle,
 .top_panel_style_7 .top_panel_middle {
-    background-color: #F5E8F4;
+    background-color: #F7B4C6;
     min-height: 0;
 }
 form.search_form {
@@ -5409,10 +5409,10 @@ body.error404 .page_content_wrap {
 /* 10. Footer areas
 -------------------------------------------------------------- */
 footer .footer_wrap_inner.widget_area_inner {
-    background-color: #F4E8F4;
+    background-color: #F7B4C6;
 }
 .footer_wrap_inner {
-    padding: 6.6em 0 3em;
+    padding: 6.6em 3em 3em;
 }
 .footer_wrap aside {
     margin-bottom: 1.5em;
@@ -5449,6 +5449,8 @@ footer .footer_wrap_inner.widget_area_inner {
     text-align: right;
     float: left;
 }
+
+
 .contacts_wrap .contacts_address .address_right {
     width: 48%;
     text-align: left;
@@ -5481,6 +5483,9 @@ footer.twitter_wrap .sc_section_overlay {
 .copyright_style_text {
     text-align: center;
 }
+/* .earthgang{
+  margin-left: 200px !important;
+} */
 .copyright_style_menu .copyright_text,
 .copyright_style_socials .copyright_text {
     float: left;
@@ -6069,12 +6074,31 @@ h5 .text_column p,
 h6 .text_column p {
     padding-bottom: 0!important;
 }
-
+.portugal a{
+    color: rgb(75, 57, 57) !important;
+    text-decoration: underline !important;
+    font-style: italic;
+}
 /* 14. Predefined classes for users
 -------------------------------------------------------------- */
 .texture_bg_green,
 .texture_bg_dark {
     background-image: url(images/bg_dark.jpg);
+}
+#bruh{
+    color: black;
+    font-size: 1.1em;
+    text-decoration: underline;
+    font-style: italic;
+}
+footer aside{
+    margin-left: 60px;
+}
+.rza{
+    color: black !important;
+}
+.rza:hover{
+    background: #F7B4C6;
 }
 .texture_bg_blue,
 .texture_bg_light {
