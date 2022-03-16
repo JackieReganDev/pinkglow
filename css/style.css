@@ -2795,6 +2795,7 @@ form.search_form .search_button:hover {
     display: none;
 }
 .header_mobile {
+    background: #F7B4C6;
     position: relative;
     z-index: 10003;
     display: none;
@@ -2829,6 +2830,7 @@ form.search_form .search_button:hover {
     left: 30px;
     top: 50%;
     margin-top: -13px;
+    color: black;
 }
 .header_mobile .menu_main_cart {
     position: absolute;
@@ -5893,6 +5895,9 @@ footer.twitter_wrap .sc_section_overlay {
 .popup_wrap.popup_registration .form_right {
     width: 50%;
     padding-left: 5px;
+}
+.icon-menu:after{
+    color: black !important;
 }
 .popup_wrap .popup_form_field {
     margin-bottom: 0.625em;
